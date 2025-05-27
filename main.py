@@ -1,1 +1,5 @@
-print("Hello git")
+def przywitaj(imie):
+    print("Czesc" + imie)
+
+
+przywitaj("Damian")
